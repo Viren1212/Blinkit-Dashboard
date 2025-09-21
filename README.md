@@ -20,4 +20,4 @@ Microsoft Excel: For initial data cleaning and preparation.
 
 How to Use
 To interact with this dashboard, download the .pbix file from this repository and open it with Power BI Desktop. You can then explore the data using the filters and slicers on the left.
-![Blinkit Dashboard Screenshot](![Blinkit Dashboard Screenshot](BLINKIT%20STORE%20DATA%20ANALYTICS/images/blinkit-dashboard.png))
+![Blinkit Dashboard Screenshot](![Blinkit Dashboard Screenshot](BLINKIT%20STORE%20DATA%20ANALYTICS/blinkit-dashboard.png))
